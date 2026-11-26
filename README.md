@@ -21,9 +21,8 @@ Associate Degree in Computer Science — In Progress
 - Library Management System — Java application demonstrating object-oriented programming.
 
 ## Leadership
-Vice President — Computer Science Club
-
-Hostos Community College
+-Vice President — Computer Science Club
+-Hostos Community College
 
 ## Career Objective
 Seeking opportunities to develop my skills in software engineering, database development, and full-stack web development.
