@@ -10,15 +10,15 @@ Hostos Community College — CUNY
 Associate Degree in Computer Science — In Progress
 
 ## Technical Skills
-- Programming:** Java, C++, Python
-- Frontend:** HTML, CSS, JavaScript
-- Databases:** Microsoft SQL Server
-- Tools:** GitHub, Visual Studio Code
+- Programming: Java, C++, Python
+- Frontend: HTML, CSS, JavaScript
+- Databases: Microsoft SQL Server
+- Tools: GitHub, Visual Studio Code
 
 ## Featured Projects
-- Colmadon El Programador** — Relational database management system.
-- Movie Explorer** — Web application integrated with TVMaze API.
-- Library Management System** — Java application demonstrating object-oriented programming.
+- Colmadon El Programador — Relational database management system.
+- Movie Explorer — Web application integrated with TVMaze API.
+- Library Management System — Java application demonstrating object-oriented programming.
 
 ## Leadership
 Vice President — Computer Science Club
