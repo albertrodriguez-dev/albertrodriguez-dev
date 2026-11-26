@@ -1,19 +1,29 @@
-Hi, I'm Albert Rodriguez!
+# Albert Rodriguez
+Computer Science Student | Aspiring Full Stack Developer
 
-Computer Science Student | Aspiring Full Stack Developer I'm a Computer Science student at Hostos Community College, 
-passionate about software development, databases, and solving real-world problems.
+## Professional Summary
+Motivated Computer Science student at Hostos Community College with hands-on experience developing applications using Java, C++, JavaScript, and SQL Server.
+Passionate about software engineering, database systems, and building practical technology solutions.
 
-Technical Skills : 
+## Education
+Hostos Community College — CUNY
+Associate Degree in Computer Science — In Progress
 
-Programming: C++, Python, Java
-Databases: SQL Server, SQL
-Web Development: HTML, CSS, JavaScript
-Tools: GitHub, Visual Studio Code
+## Technical Skills
+- Programming:** Java, C++, Python
+- Frontend:** HTML, CSS, JavaScript
+- Databases:** Microsoft SQL Server
+- Tools:** GitHub, Visual Studio Code
 
-Featured Project:
+## Featured Projects
+- Colmadon El Programador** — Relational database management system.
+- Movie Explorer** — Web application integrated with TVMaze API.
+- Library Management System** — Java application demonstrating object-oriented programming.
 
-Colmadon El Programador
-A SQL Server database project for managing inventory, sales, purchases, customers, suppliers, and financial reports.
+## Leadership
+Vice President — Computer Science Club
 
-Career Goal :
-Become a Full Stack Developer and develop practical software solutions.
+Hostos Community College
+
+## Career Objective
+Seeking opportunities to develop my skills in software engineering, database development, and full-stack web development.
