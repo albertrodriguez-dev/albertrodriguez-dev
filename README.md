@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Albert Rodriguez!
 
-<!--
-**lirianoro-crypto/lirianoro-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student | Aspiring Full Stack Developer I'm a Computer Science student at Hostos Community College, 
+passionate about software development, databases, and solving real-world problems.
 
-Here are some ideas to get you started:
+Technical Skills : 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming: C++, Python, Java
+Databases: SQL Server, SQL
+Web Development: HTML, CSS, JavaScript
+Tools: GitHub, Visual Studio Code
+
+Featured Project:
+
+Colmadon El Programador
+A SQL Server database project for managing inventory, sales, purchases, customers, suppliers, and financial reports.
+
+Career Goal :
+Become a Full Stack Developer and develop practical software solutions.
